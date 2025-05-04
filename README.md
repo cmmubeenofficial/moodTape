@@ -1,2 +1,2 @@
 # moodTape
-Personla project to play music according to mood.
+Personal project to play music according to mood.
